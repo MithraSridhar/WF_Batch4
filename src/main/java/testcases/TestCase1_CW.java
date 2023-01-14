@@ -34,6 +34,7 @@ public class TestCase1_CW extends ProjectSpecificWrappers {
 		.getTitle()
 		.clickLogOut();	
 		//first change
+		//Second day change
 	}
 	
 	
